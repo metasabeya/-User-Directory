@@ -2,8 +2,8 @@ import React from "react";
 
 function Footer() {
     return (
-        <div className="m-10 text-sm text-center text-gray-500">
-           <p>Designed by  <a href="https://yarocruz.surge.sh/" className="font-bold text-gray-600 hover:text-yellow-500">Mety Ketsela</a></p>
+        <div className="m-10 text-sm text-right text-gray-500">
+           <p>Designed by  <a href="https://github.com/metasabeya" className="font-bold text-red-600 hover:text-white-700">Mety Ketsela</a></p>
         </div>
     )
 }
