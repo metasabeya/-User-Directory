@@ -6,7 +6,7 @@ class Loader extends React.Component {
     render() {
         return (
             <div className="centerpiece">
-                {/* <div>{this.props.loadBar >= 9 ? "" : `LOADING...`}</div> */}
+                
                 <div className="loader">
                     <div className="c0 c1 c2 c3 c4 c5 c6 c7 c8 c9">
                         {this.props.loadBar >= 0 ? <div className="squaregrey"></div> : <div className="squarewhite"></div>}
