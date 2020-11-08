@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/metasabeya.github.io/Employee-Directory/static/css/main.a8330768.chunk.css",
+    "main.js": "/metasabeya.github.io/Employee-Directory/static/js/main.244e39c2.chunk.js",
+    "main.js.map": "/metasabeya.github.io/Employee-Directory/static/js/main.244e39c2.chunk.js.map",
+    "runtime-main.js": "/metasabeya.github.io/Employee-Directory/static/js/runtime-main.ed45d100.js",
+    "runtime-main.js.map": "/metasabeya.github.io/Employee-Directory/static/js/runtime-main.ed45d100.js.map",
+    "static/js/2.062f23bd.chunk.js": "/metasabeya.github.io/Employee-Directory/static/js/2.062f23bd.chunk.js",
+    "static/js/2.062f23bd.chunk.js.map": "/metasabeya.github.io/Employee-Directory/static/js/2.062f23bd.chunk.js.map",
+    "index.html": "/metasabeya.github.io/Employee-Directory/index.html",
+    "static/css/main.a8330768.chunk.css.map": "/metasabeya.github.io/Employee-Directory/static/css/main.a8330768.chunk.css.map",
+    "static/js/2.062f23bd.chunk.js.LICENSE.txt": "/metasabeya.github.io/Employee-Directory/static/js/2.062f23bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed45d100.js",
+    "static/js/2.062f23bd.chunk.js",
+    "static/css/main.a8330768.chunk.css",
+    "static/js/main.244e39c2.chunk.js"
+  ]
+}
