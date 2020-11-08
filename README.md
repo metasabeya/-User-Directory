@@ -15,3 +15,5 @@ The user is able to sort th table by category or using their name.
 Links
 
 https://github.com/metasabeya/Employee-Directory
+
+ https://metasabeya.github.io/Employee-Directory/
