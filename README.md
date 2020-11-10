@@ -10,7 +10,7 @@ The user is able to sort th table by category or using their name.
 
 Technology used for this app is nodejs, react, axios.
 
-![Screenshot (312)](https://user-images.githubusercontent.com/65740871/98457061-02e3b380-2141-11eb-8136-0b03a2595915.png)
+
 
  
 
