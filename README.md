@@ -12,7 +12,7 @@ Technology used for this app is nodejs, react, axios.
 
 
 
- 
+ ![EmployeeDirectory](https://user-images.githubusercontent.com/65740871/98728008-14ea6f80-2356-11eb-8dae-cb018ec657c6.gif)
 
 
 Links
