@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function SiteHead() {
+function Head() {
     return (
 <div className = "wrapper">
     <div className = "title">
@@ -9,11 +9,11 @@ Employee Directory
     </div>
     <br></br>
     <div className = "tagline">
-All Relevant Information on All Employees, All the Time
+Employee List And Detail Information
     </div>
 </div>
 
     );
 }
 
-export default SiteHead;
+export default Head;

@@ -1,8 +1,8 @@
 import React from "react";
 import "./style.css";
-import ListHeader from '../ListHeader';
+import Container from '../Container';
 
-class Navbar extends React.Component {
+class Navigation extends React.Component {
 
     state = {
         searchTerm: "",
@@ -38,7 +38,7 @@ class Navbar extends React.Component {
     render() {
         return (
             <div>
-                {/* {this.fillList} */}
+                {}
                 <form className="form">
                     <input
                         value={this.state.searchTerm}
@@ -49,7 +49,7 @@ class Navbar extends React.Component {
                     />
                 </form>
                 {this.state.filteredEmployees.length > 0 &&
-                    <ListHeader empList={this.state.filteredEmployees} />
+                    <Container empList={this.state.filteredEmployees} />
                 }
             </div>
 
@@ -58,4 +58,4 @@ class Navbar extends React.Component {
 }
 
 
-export default Navbar;
+export default Navigation;

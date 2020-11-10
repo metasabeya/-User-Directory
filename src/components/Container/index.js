@@ -1,8 +1,8 @@
 import React from "react";
 import "./style.css";
-import Card from '../Card';
+import Card from '../Layout';
 
-class ListHeader extends React.Component {
+class Container extends React.Component {
 
     state = {
         alphabetical: true,
@@ -107,7 +107,7 @@ class ListHeader extends React.Component {
                                 title={item.name.title}
                                 gender={item.gender}
                                 age={item.dob.age}
-                                phone={item.cell}
+                             phone={item.cell}
                                 email={item.email}
                             />
                     ))
@@ -117,4 +117,4 @@ class ListHeader extends React.Component {
     }
 }
 
-export default ListHeader;
+export default Container;

@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function Card(props) {
+function Layout(props) {
     return (
 
         <div className="card">
@@ -15,4 +15,4 @@ function Card(props) {
     );
 }
 
-export default Card;
+export default Layout;

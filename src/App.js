@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 import axios from "axios";
-import SiteHead from './components/SiteHead';
-import Navbar from './components/Navbar';
+import Head from './components/Head';
+import Navigation from './components/Navigation';
 
 
 class App extends React.Component {
@@ -22,9 +22,9 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <SiteHead />
+        <Head />
         {this.state.employees.length > 0 &&
-        <Navbar employees={this.state.employees}/>
+        <Navigation employees={this.state.employees}/>
   }
       </div>
     );
